@@ -1,0 +1,32 @@
+_repo: The-Vagabond-in-Literature_33356
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Compton-Rickett, Arthur
+    alias: Rickett, Arthur
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '36360'
+    url: http://www.gutenberg.org/2009/agents/36360
+description: ''
+gutenberg_issued: '2010-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33356'
+  lccn: '2013432405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 19th century -- History and criticism'
+- !lcsh 'Bohemianism'
+- !lcc 'PR'
+tableOfContents: 'Introduction: The vagabond element in modern literature -- William
+  Hazlitt -- Thomas De Quincey -- George Borrow -- Henry D. Thoreau -- Robert Louis
+  Stevenson -- Richard Jefferies -- Walt Whitman.'
+title: The Vagabond in Literature
+url: http://www.gutenberg.org/ebooks/33356
